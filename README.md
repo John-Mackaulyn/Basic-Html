@@ -1,34 +1,33 @@
-# 💻 Project: Basic HTML Lessons and Exercises
+# 📚 HTML Básico
 
-This repository contais a series of **lessons and pratical exercises** focused on the fundamentals of **Html**, organized in a progressive learnin structure.
-
-The goal is to serve as a resource for studying, practicing, and reviewing essential web develoment concepts.
-
----
-## 📁Project Structure
-
-Each folder presents a hands-on activity
-| Folder                      | Topic                                     |
-|----------------------------|-------------------------------------------|
-| `00-usando-listas-tags`    | Introduction to using HTML tags and lists |
-| `01-primeira-pag-html`     | Creating your first HTML page             |
-| `02-titulos-e-paragrafos`  | Using headings (h1 to h6) and paragraphs  |
-| `03-formatando-textos`     | Formatting text (bold, italic, etc.)      |
-| `04-comentarios`           | Adding comments in HTML                   |
-| `05-links`                 | Creating internal and external links      |
-| `06-imagens`               | Inserting images into a page              |
-| `07-listas`                | Ordered and unordered lists               |
-| `08-tabelas`               | Building tables with HTML                 |
+Este repositório contém exercícios práticos sobre estruturação de páginas web usando HTML. As atividades são organizadas em pastas de acordo com os conceitos aplicados.
 
 ---
 
-## 🚀 How to View the Files
+## 📌 Conteúdo
 
-You can open any `.html` file directly in your web browser. Just follow these steps:
+| Pasta | Tópico |
+|--------------------------------|--------------------------------------|
+| **00-usando-listas-tags** | Introdução às tags HTML e listas não ordenadas/ordenadas |
+| **01-primeira-pag-html** | Criação da primeira página HTML com estrutura básica |
+| **02-titulos-e-paragrafos** | Uso de cabeçalhos (`h1`-`h6`) e parágrafos (`p`) |
+| **03-formatando-textos** | Formatação de texto: `strong`, `em`, `mark`, `small` etc |
+| **04-comentarios** | Como adicionar comentários (`<!-- -->`) no código |
+| **05-links** | Criação de links internos/externos com tag `<a>` |
+| **06-imagens** | Inserção de imagens com `<img>` e atributos importantes |
+| **07-listas** | Listas ordenadas (`ol`), não ordenadas (`ul`) e de definição (`dl`) |
+| **08-tabelas** | Criação de tabelas com `<table>`, `<tr>`, `<td>`, `<th>` |
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/John-Mackaulyn/Basic-Html.git
-Navigate to the folder you want to explore.
+## 🚀 Como Usar
 
-Double-click the .html file to open it in your browser.
+1. Clone o repositório:
+```bash
+git clone https://github.com/John-Mackaulyn/Basic-Html.git
+```
+2. Navegue até a pasta do tópico desejado:
+
+```bash
+cd html-basico/07-listas
+```
+
+3. Abra o arquivo index.html no navegador.
